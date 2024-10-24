@@ -5,3 +5,5 @@ libreria:
   Operación resta (numero1, numero2) = numero1-numero2
 
   Operación multiplicacion (numero1, numero2) = numero1*numero2
+
+  Operación division (numeroA, numeroB) = numeroA/numeroB
