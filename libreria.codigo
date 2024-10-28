@@ -9,3 +9,5 @@ libreria:
   Operación division (numeroA, numeroB) = numeroA/numeroB
 
   Operación potencia (numero, exponente) = numero^exponente
+
+  Operación raizCuadrada (numero) = sqrt(numero)
