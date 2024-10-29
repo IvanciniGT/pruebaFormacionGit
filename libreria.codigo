@@ -1,15 +1,21 @@
 libreria:
 
+  # Documentación de la operación negativo
   Operación negativo (numero) = numero*(-1)
 
+  # Documentación de la operación factorial
   Operación factorial (numero) = if numero == 0 then 1 else numero*factorial(numero-1)
 
+  # Documentación de la operación suma
   Operación suma (numero1, numero2) = numero1+numero2
 
+  # Documentación de la operación logaritmo
   Operación logaritmo (numero) = log(numero)
 
+  # Documentación de la operación multiplicacion
   Operación multiplicacion (numero1, numero2) = numero1*numero2
 
+  # Documentación de la operación cubo
   Operation cubo (numero) = numero^3
 
   Operación cuadrado (numero) = numero^2
