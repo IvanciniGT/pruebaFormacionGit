@@ -2,6 +2,8 @@ libreria:
 
   Operación suma (numero1, numero2) = numero1+numero2
 
+  Operación logaritmo (numero) = log(numero)
+
   Operación multiplicacion (numero1, numero2) = numero1*numero2
 
   Operation cubo (numero) = numero^3
