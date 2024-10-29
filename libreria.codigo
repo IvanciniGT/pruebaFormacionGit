@@ -2,6 +2,8 @@ libreria:
 
   Operación suma (numero1, numero2) = numero1+numero2
 
+  Operación multiplicacion (numero1, numero2) = numero1*numero2
+
   Operación valorAbsoluto (numero) = if numero < 0 then numero*(-1) else numero
 
   Operación resta (numero1, numero2) = numero1-numero2
