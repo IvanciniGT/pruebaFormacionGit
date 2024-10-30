@@ -26,7 +26,7 @@ libreria:
 
   Operación resta (numero1, numero2) = numero1-numero2
 
-  Operación division (numeroA, numeroB) = numeroA/numeroB
+  Operación division (numeroA, numeroB) = Si numeroB != 0 entonces numeroA/numeroB sino "Error"
 
   Operación potencia (numero, exponente) = numero^exponente
 
