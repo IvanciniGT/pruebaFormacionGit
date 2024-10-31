@@ -1,6 +1,7 @@
 libreria:
 
   # Documentación de la operación negativo
+  # Arreglo en la documentación de la operación negativo
   Operación negativo (numero) = numero*(-1)
 
   # Documentación de la operación factorial
